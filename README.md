@@ -1,2 +1,2 @@
 # crs-exercises
-Projects from the textbook "Introduction to Algorithms," 3rd edition, by Cormen et al
+Projects from the textbook "Elements of Statistical Learning," 2nd edition, by Hastie et al
